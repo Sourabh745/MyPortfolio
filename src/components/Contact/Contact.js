@@ -119,15 +119,15 @@ const Contact = () => {
                         <h3 className="contact__info-title">Let's Connect</h3>
                         <div className="contact__info-details">
                             <ul>
-                                <li> <FontAwesomeIcon icon={faLocationDot} size="2x" /><p><span>Address:&nbsp;&nbsp;</span>Enter Your Address Here...</p></li>
-                                <li> <FontAwesomeIcon icon={faPhone} size="2x" /><p><span>Phone:</span>&nbsp;&nbsp;(+91) 123456789</p></li>
-                                <li> <FontAwesomeIcon icon={faEnvelope} size="2x" /><p><span>Email:&nbsp;&nbsp;</span>xyz@gmail.com</p></li>
-                                <li> <FontAwesomeIcon icon={faSquareCheck} size="2x" /><span>FREELANCE</span></li>
+                                <li> <FontAwesomeIcon icon={faLocationDot} size="2x" /><p><span>Address:&nbsp;&nbsp;</span>Chandigarh</p></li>
+                                <li> <FontAwesomeIcon icon={faPhone} size="2x" /><p><span>Phone:</span>&nbsp;&nbsp;(+91) 7529856108</p></li>
+                                <li> <FontAwesomeIcon icon={faEnvelope} size="2x" /><p><span>Email:&nbsp;&nbsp;</span>thapliyalsourabh@gmail.com</p></li>
+                                {/* <li> <FontAwesomeIcon icon={faSquareCheck} size="2x" /><span>FREELANCE</span></li> */}
                             </ul>
                         </div>
                         <div className="contact__social">
                             <p className="contact__linkedin">
-                                <a href="https://www.linkedin.com/in/rajiv-kumar-singh-04296418b/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
+                                <a href="https://www.linkedin.com/in/sourabh-thapliyal-006ba02b4/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
                             </p>
 
                             <p className='contact__github'>

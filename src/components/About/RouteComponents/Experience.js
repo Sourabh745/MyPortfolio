@@ -17,26 +17,24 @@ const Experience = () => {
                     <div className="experience__description">
                         <div className="experience__main-box">
                             <div className="experience__box">
-                                <h2>XYZ Pvt Ltd</h2>
-                                <h3><FontAwesomeIcon icon={faCalendarDays} className="experience__calendar" />&nbsp; &nbsp;01/06/2022 - PRESENT</h3>
+                                <h2>Hoping Minds</h2>
+                                <h3><FontAwesomeIcon icon={faCalendarDays} className="experience__calendar" />&nbsp; &nbsp;07/01/2023 - 07/07/2023</h3>
                                 <ul>
                                     <p>Responsible for -</p>
                                     <li data-aos='fade-right' data-aos-delay='200'>
-                                        <span>Developing multiple highly responsive and adaptive website using React and Vue</span>
+                                        <span>Developing multiple highly responsive and adaptive website using React</span>
                                     </li>
                                     <li data-aos='fade-right' data-aos-delay='400'>
-                                        <span>Developing new user-facing features</span>
+                                        <span>Developed a personal iNotebook project to keep your notes save in database.</span>
                                     </li>
                                     <li data-aos='fade-right' data-aos-delay='600'>
                                         <span>Building reusable code</span>
                                     </li>
-                                    <li data-aos='fade-right' data-aos-delay='800'>
-                                        <span>Add few more lines...</span>
-                                    </li>
+                                    
                                 </ul>
                             </div>
 
-                            {/* You can put this repeated code as a child component similar to internship.js  */}
+                            {/*  You can put this repeated code as a child component similar to internship.js  
                             <div className="experience__box">
                                 <h2>XYZ Pvt Ltd</h2>
                                 <h3><FontAwesomeIcon icon={faCalendarDays} className="experience__calendar" />&nbsp; &nbsp;01/06/2022 - PRESENT</h3>
@@ -55,7 +53,7 @@ const Experience = () => {
                                         <span>Add few more lines...</span>
                                     </li>
                                 </ul>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 
 import '../../styles/Hero/Hero.scss';
 
-import Myself from '../../assets/images/myself.png';
+import Myself from '../../assets/images/images.png';
 
 const Hero = () => {
   useEffect(() => {
@@ -25,7 +25,7 @@ const Hero = () => {
           <div className="hero__intro-box">
             <p className="hero__intro-title">
               <span className="hero__intro-line" data-aos="fade-down"></span>
-              Hello, I am Name
+              Hello, I am Sourabh Thapliyal
             </p>
             <p className="hero__animated-alphabet-box">
               <span

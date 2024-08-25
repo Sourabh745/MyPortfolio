@@ -11,13 +11,13 @@ const Intro = () => {
                         <h1 data-aos='fade-down' data-aos-offset="0">H<span>ello</span>.</h1>
                     </div>
                     <div className="about-intro__description">
-                        <p data-aos='fade-right' >I am <span>Your Name Here....</span></p>
+                        <p data-aos='fade-right' >Hi <span>Sourabh Here....</span></p>
                         <p data-aos='fade-right' data-aos-delay='200'>I enjoy building websites and always enthusiastic about creating new front-end features.</p>
-                        <p data-aos='fade-right' data-aos-delay='400'>Passionate front-end Developer with more than 1.5 years of experience in developing highly adaptive and responsive websites using React and Vue.</p>
+                        <p data-aos='fade-right' data-aos-delay='400'>Aspiring Full Stack Developer with 6 months of experience at HOPINGMINDS</p>
                         <p data-aos='fade-right' data-aos-delay='600'>I also have basic understanding of server side development using Node.js, Express.js and MongoDB</p>
-                        <p data-aos='fade-right' data-aos-delay='800'>Add few more lines if required...</p>
+                        <p data-aos='fade-right' data-aos-delay='800'></p>
 
-                        <div className="about-intro__emoji">:&nbsp;)</div>
+                        <div className="about-intro__emoji">:&nbsp;</div>
                     </div>
                 </div>
             </div>

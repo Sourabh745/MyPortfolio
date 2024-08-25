@@ -123,15 +123,11 @@ const Header = () => {
               </div>
               <div className="header__social">
                 <p className="header__linkedin">
-                  <a href="https://www.linkedin.com/in/rajiv-kumar-singh-04296418b/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
+                  <a href="https://www.linkedin.com/in/sourabh-thapliyal-006ba02b4/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
                 </p>
 
                 <p className='header__github'>
-                  <a href="https://github.com/Rajiv-Kumar-Singh" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faGithub} size="2x" /></a>
-                </p>
-
-                <p className='header__youtube'>
-                  <a href="https://www.youtube.com/channel/UCkNUMuNBp1-037oHEKs-G9Q" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faYoutube} size="2x" /></a>
+                  <a href="https://github.com/Sourabh745" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faGithub} size="2x" /></a>
                 </p>
               </div>
             </ul>

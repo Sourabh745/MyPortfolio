@@ -16,15 +16,13 @@ const Skill = () => {
       const texts = [
         'HTML',
         'CSS',
-        'SASS',
         'JavaScript',
         'React',
-        'Vue',
-        'Nuxt',
+        'Java',
+        'C++',
         'NodeJS',
-        'Shopify',
-        'Jquery',
-        'ES6',
+        'MySQL',
+        'MongoDB',
         'GIT',
         'GITHUB',
       ];
@@ -109,16 +107,7 @@ const Skill = () => {
                     <li>
                       <span>HTML5, CSS3</span>
                     </li>
-                    <li>
-                      <span>
-                        <b>Preprocessors:</b> PUG, SASS
-                      </span>
-                    </li>
-                    <li>
-                      <span>
-                        <b>Modular:</b> BEM
-                      </span>
-                    </li>
+                    
                   </ul>
                 </div>
                 <div className="skill__details">
@@ -126,8 +115,7 @@ const Skill = () => {
                   <ul>
                     <li>
                       <span>
-                        <b>Frameworks & Libraries:</b> &nbsp; React JS, React
-                        Native, Vue.js, Nuxt
+                        <b>Frameworks & Libraries:</b> &nbsp; React JS
                       </span>
                     </li>
                     <li>
@@ -136,11 +124,16 @@ const Skill = () => {
                     <li>
                       <span>Node.js</span>
                     </li>
+                  </ul>
+                </div>
+                <div className="skill__details">
+                  <h4>Programming Language</h4>
+                  <ul>
                     <li>
-                      <span>jQuery</span>
+                      <span>Java</span>
                     </li>
                     <li>
-                      <span>Typescript</span>
+                      <span>C++</span>
                     </li>
                   </ul>
                 </div>
@@ -149,14 +142,6 @@ const Skill = () => {
                   <ul>
                     <li>
                       <span>GIT</span>
-                    </li>
-                  </ul>
-                </div>
-                <div className="skill__details">
-                  <h4>E-Commerce</h4>
-                  <ul>
-                    <li>
-                      <span>Shopify</span>
                     </li>
                   </ul>
                 </div>
@@ -171,6 +156,9 @@ const Skill = () => {
                     </li>
                     <li>
                       <span>MongoDB</span>
+                    </li>
+                    <li>
+                      <span>MySQL</span>
                     </li>
                   </ul>
                 </div>

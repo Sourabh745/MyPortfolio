@@ -73,8 +73,7 @@ const About = () => {
                   H<span>ello,</span>
                 </h2>
                 <p>
-                  I am <span>Your Name Here.</span> <br /> Highly passoinate
-                  front-end Developer with more than 1.5 years of experience.
+                  Hi <span>Sourabh Here.</span> <br /> As a recent graduate with a strong foundation in Java and full-stack development, I’ve successfully completed several hands-on projects that showcase my skills. I’m eager to apply my knowledge in both front-end and back-end technologies to real-world challenges. With a passion for continuous learning and problem-solving, I’m excited to contribute to dynamic development teams and grow as a developer.
                 </p>
               </Link>
             </div>
@@ -94,9 +93,8 @@ const About = () => {
                 </h2>
                 <p>
                   <span>6 month of experience.</span>
-                  <br />I have more than 1.5 years of experience in developing
-                  highly responsive frontend of websites using React.js and
-                  Vue.js
+                  <br />Aspiring Full Stack Developer with 6 months of experience at HOPINGMINDS in developing
+                  highly responsive frontend of websites using React.js.
                 </p>
               </Link>
             </div>
@@ -119,14 +117,9 @@ const About = () => {
                 </p>
                 <ul>
                   <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
+                    <span>Hoping Minds</span> - Full stack Developer{" "}
                   </li>
-                  <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
-                  </li>
-                  <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
-                  </li>
+                  
                 </ul>
               </Link>
             </div>
@@ -145,9 +138,9 @@ const About = () => {
                   E<span>ngineering</span>
                 </h2>
                 <p>
-                  <span>College Name </span>
+                  <span>Chitkara University</span>
                   <br />
-                  Description.... Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam vitae aliquid dolorum qui reiciendis mollitia, itaque dolores eaque ullam quo soluta libero! Natus.
+                  I am a graduate from Chitkara University with a 9.19 CGPA, specializing in full-stack development and various programming languages. My academic journey has equipped me with a strong technical foundation and hands-on project experience. I’m eager to apply my skills and enthusiasm to new challenges in the tech industry.
                 </p>
               </Link>
             </div>
