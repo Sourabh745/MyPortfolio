@@ -47,21 +47,21 @@ const Hero = () => {
                 data-aos="fade-up"
                 data-aos-delay="600"
               >
-                O
+                E
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="800"
               >
-                N
+                S
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="1000"
               >
-                T
+                H
               </span>
               <span
                 className="hero__alphabet"
@@ -75,21 +75,7 @@ const Hero = () => {
                 data-aos="fade-up"
                 data-aos-delay="1400"
               >
-                N
-              </span>
-              <span
-                className="hero__alphabet hero__alphabet--last"
-                data-aos="fade-up"
-                data-aos-delay="1600"
-              >
-                D
-              </span>
-              <span
-                className="hero__developer-text"
-                data-aos="zoom-out-down"
-                data-aos-delay="1800"
-              >
-                <span className="hero__dev-text">Developer</span>
+                R
               </span>
             </p>
             <div
@@ -98,10 +84,7 @@ const Hero = () => {
               data-aos-delay="1800"
             >
               <p>
-                I'm a passionate and responsible{' '}
-                <span>front-end developer</span>, with more than 1.5 years of
-                experience. Skilled in developing highly responsive websites and
-                mobile apps with elegant and efficient code.
+              As a recent graduate with a strong foundation in Java and full-stack development, I’ve successfully completed several hands-on projects that showcase my skills
               </p>
             </div>
 
