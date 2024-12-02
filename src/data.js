@@ -39,7 +39,7 @@ export const config = {
           companyName: 'HopingMinds',
           role: 'Front-end Developer',
           introText: '',
-          duration: '29/03/2022 - 29/05/2022',
+          duration: '07/01/2023 - 07/07/2023',
           keyPointOne: '• Built front-end of multiple website using ReactJS',
           keyPointTwo:
             '• Developed a personal iNotebook project to keep your notes save in database.',

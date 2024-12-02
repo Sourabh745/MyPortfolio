@@ -121,7 +121,7 @@ const Contact = () => {
                             <ul>
                                 <li> <FontAwesomeIcon icon={faLocationDot} size="2x" /><p><span>Address:&nbsp;&nbsp;</span>Chandigarh</p></li>
                                 <li> <FontAwesomeIcon icon={faPhone} size="2x" /><p><span>Phone:</span>&nbsp;&nbsp;(+91) 7529856108</p></li>
-                                <li> <FontAwesomeIcon icon={faEnvelope} size="2x" /><p><span>Email:&nbsp;&nbsp;</span>thapliyalsourabh@gmail.com</p></li>
+                                <li> <FontAwesomeIcon icon={faEnvelope} size="2x" /><p><span>Email:&nbsp;&nbsp;</span>thapliyalsourabh5@gmail.com</p></li>
                                 {/* <li> <FontAwesomeIcon icon={faSquareCheck} size="2x" /><span>FREELANCE</span></li> */}
                             </ul>
                         </div>

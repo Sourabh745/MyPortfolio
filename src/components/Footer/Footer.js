@@ -10,9 +10,9 @@ const Footer = () => {
     <>
       <div className="footer">
         <div className="footer__container">
-          <p>
+          {/* <p>
             Made with <FontAwesomeIcon icon={faHeart} size="sm" /> by codemmit
-          </p>
+          </p> */}
         </div>
       </div>
     </>
