@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.d442991e.css",
-    "main.js": "/MyPortfolio/static/js/main.6bbdf8d1.js",
-    "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Redwing-Medium.otf": "/MyPortfolio/static/media/Redwing-Medium.7402d4c764b8807db59b.otf",
-    "static/media/Redwing-Light.otf": "/MyPortfolio/static/media/Redwing-Light.bda278368d19c572f2f2.otf",
-    "index.html": "/MyPortfolio/index.html",
-    "static/media/angle-down.svg": "/MyPortfolio/static/media/angle-down.11e201872eb97a54f0d3.svg",
-    "static/media/triangle.svg": "/MyPortfolio/static/media/triangle.5172a3481a7112a7a103.svg",
-    "main.d442991e.css.map": "/MyPortfolio/static/css/main.d442991e.css.map",
-    "main.6bbdf8d1.js.map": "/MyPortfolio/static/js/main.6bbdf8d1.js.map",
-    "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.b0e11577.css",
+    "main.js": "/static/js/main.d0923108.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/vecteezy_developer-png-with-ai-generated_29711176.png": "/static/media/vecteezy_developer-png-with-ai-generated_29711176.c410f02b71b4c9dea8a0.png",
+    "static/media/Redwing-Medium.otf": "/static/media/Redwing-Medium.7402d4c764b8807db59b.otf",
+    "static/media/Redwing-Light.otf": "/static/media/Redwing-Light.bda278368d19c572f2f2.otf",
+    "index.html": "/index.html",
+    "static/media/angle-down.svg": "/static/media/angle-down.11e201872eb97a54f0d3.svg",
+    "static/media/triangle.svg": "/static/media/triangle.5172a3481a7112a7a103.svg",
+    "main.b0e11577.css.map": "/static/css/main.b0e11577.css.map",
+    "main.d0923108.js.map": "/static/js/main.d0923108.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d442991e.css",
-    "static/js/main.6bbdf8d1.js"
+    "static/css/main.b0e11577.css",
+    "static/js/main.d0923108.js"
   ]
 }
