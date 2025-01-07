@@ -36,7 +36,7 @@
 
     h1 {
       font-size: 9vw;
-      color: #ffffffe8;
+      color: #f50101e8;
       margin-left: 9%;
       margin-top: -15%;
       letter-spacing: 0.05em;
@@ -47,7 +47,7 @@
     position: relative;
     padding-top: 10%;
     margin-left: 5%;
-    color: #ffffff;
+    color: #0e0707;
     font-weight: lighter;
     max-width: 50vw;
     padding-right: 5%;
@@ -82,7 +82,7 @@
   }
 
   &__main-box::-webkit-scrollbar-thumb:vertical {
-    background: #00ffff;
+    background: #f50101e8;
     border-radius: 10px;
   }
 
@@ -107,7 +107,7 @@
         color: #00ffff;
         margin-bottom: 0.5em;
         span {
-          color: #ffffff;
+          color: #0b0b0b;
         }
         span:empty {
           display: none;

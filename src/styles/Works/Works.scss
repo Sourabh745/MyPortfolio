@@ -1,7 +1,7 @@
 .works {
   position: relative;
   top: 0;
-  background: #000000;
+  background: #f7faf7;
 
   &__container {
     position: relative;
@@ -28,12 +28,12 @@
       content: "";
       width: 10%;
       height: 0.05em;
-      background-color: #00ffff;
+      background-color: #f55917;
     }
 
     h1 {
       position: relative;
-      color: #ffffff;
+      color: #030303;
       span {
         position: relative;
       }

@@ -1,7 +1,7 @@
 .hero {
   position: relative;
   top: 0;
-  background-color: #000000;
+  background-color: #f7faf7;
 
   &::before,
   &::after {
@@ -17,7 +17,7 @@
     top: 80%;
     left: -1%;
     content: '';
-    border: 0.2em solid #00ffff;
+    border: 0.2em solid #f55917;
     transform: rotate(79deg);
   }
 
@@ -50,7 +50,7 @@
       width: 2em;
       height: 2em;
       z-index: 1;
-      border: 0.2em solid #00ffff;
+      border: 0.2em solid #f55917;
       opacity: 0.1;
       transform: rotate(79deg);
     }
@@ -63,7 +63,7 @@
       width: 2em;
       height: 0.2em;
       z-index: 1;
-      border: 0.2em solid #00ffff;
+      border: 0.2em solid #f55917;
       opacity: 0.1;
       transform: rotate(201deg);
     }
@@ -71,7 +71,7 @@
 
   &__alphabet {
     display: inline-block;
-    color: #00ffff;
+    color: #f55917;
   }
 
   &__animated-alphabet-box {
@@ -83,7 +83,7 @@
     letter-spacing: 0.1em;
 
     span:last-child {
-      color: #ffffff;
+      color: #060404;
       margin-right: 0.5em;
     }
   }
@@ -100,7 +100,7 @@
       min-width: 23em;
       span {
         margin-bottom: 0.5em;
-        border-bottom: 0.07em solid #00ffff;
+        border-bottom: 0.07em solid #f55917;
         padding-bottom: 0.2em;
       }
     }
@@ -129,19 +129,19 @@
   &__know-btn {
     color: #000000;
     margin-right: 1.5em;
-    background: #00ffff;
-    border: 0.1em solid #00ffff;
+    background: #f55917;
+    border: 0.1em solid #f55917;
 
     &:hover {
       background: transparent;
       border: 0.1em solid #ff6347;
-      color: #ffffff;
+      color: #070505;
     }
   }
 
   &__contact-btn {
-    color: #ffffff;
-    border: 0.1em solid #00ffff;
+    color: #080505;
+    border: 0.1em solid #f55917;
 
     &:hover {
       background: #ff6347;
@@ -182,7 +182,7 @@
 
   &__intro-box {
     position: relative;
-    color: #ffffff;
+    color: #050404;
     z-index: 2;
   }
 
@@ -192,7 +192,7 @@
     height: 0.05em;
     margin-right: 0.5em;
     display: inline-block;
-    background: #00ffff;
+    background: #f55917;
   }
 
   &__intro-title {

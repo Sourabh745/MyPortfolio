@@ -17,7 +17,8 @@ const ProjectCard = (props) => {
         <div className="project-card__container">
           <Collapsible trigger={props.cardContent.heading}>
             <div className="project-card__description-content">
-              <p>{props.cardContent.description}</p>
+              <p><img src = {props.cardContent.description} /></p>
+              {console.log(props.cardContent.description)}
               <a
                 href={props.cardContent.buttonLink}
                 target="_blank"

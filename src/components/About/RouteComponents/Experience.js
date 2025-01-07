@@ -17,20 +17,33 @@ const Experience = () => {
                     <div className="experience__description">
                         <div className="experience__main-box">
                             <div className="experience__box">
+                                <h2>Advanced Java Training</h2>
+                                <h3><FontAwesomeIcon icon={faCalendarDays} className="experience__calendar" />&nbsp; &nbsp;June 2024 - Dec 2024</h3>
+                                <ul>
+                                    <p>Responsible for -</p>
+                                    <li data-aos='fade-right' data-aos-delay='200'>
+                                        <span>Acquired skills in Java, Hibernate, MySQL, and CLI application development through an extensive 6-month training program, building a solid foundation in back-end technologies.</span>
+                                    </li>
+                                    <li data-aos='fade-right' data-aos-delay='400'>
+                                        <span>Developed a digital bookstore system, integrating Java programming, Hibernate ORM, and MySQL, managing over 100 books</span>
+                                    </li>
+                                    <li data-aos='fade-right' data-aos-delay='400'>
+                                        <span>Strengthened expertise in OOP, DBMS, and CLI tools, contributing to 100% efficiency in application performance during user testing.</span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div className="experience__box">
                                 <h2>Hoping Minds</h2>
                                 <h3><FontAwesomeIcon icon={faCalendarDays} className="experience__calendar" />&nbsp; &nbsp;07/01/2023 - 07/07/2023</h3>
                                 <ul>
                                     <p>Responsible for -</p>
                                     <li data-aos='fade-right' data-aos-delay='200'>
-                                        <span>Developing multiple highly responsive and adaptive website using React</span>
+                                        <span>Implemented state management techniques (e.g., Redux, MobX) to maintain data consistency across an application with over 50 components, reducing rendering time by 30% and enhancing reliability.</span>
                                     </li>
                                     <li data-aos='fade-right' data-aos-delay='400'>
-                                        <span>Developed a personal iNotebook project to keep your notes save in database.</span>
+                                        <span>Leveraged Git to manage over 200 code commits and collaborated with a team of 5 developers, reducing merge conflicts by 40% and ensuring timely project delivery.</span>
                                     </li>
-                                    <li data-aos='fade-right' data-aos-delay='600'>
-                                        <span>Building reusable code</span>
-                                    </li>
-                                    
                                 </ul>
                             </div>
 

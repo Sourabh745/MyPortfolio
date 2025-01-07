@@ -28,7 +28,7 @@ const Skill = () => {
       ];
 
 
-      // Decrasing 'radius' value for small screen devices  
+      // Decrasing 'radius' value for small screen devices
       function radiusValue() {
         if (window.screen.width <= 778) {
           radii = 150;

@@ -36,7 +36,7 @@
 
     h1 {
       font-size: 9vw;
-      color: #ffffffe8;
+      color: #f50101e8;
       margin-left: 9%;
       margin-top: -15%;
       letter-spacing: 0.05em;
@@ -47,7 +47,7 @@
     position: relative;
     padding-top: 10%;
     margin-left: 5%;
-    color: #ffffff;
+    color: #0b0b0b;
     font-weight: lighter;
     width: 50vw;
     max-width: 50vw;
@@ -83,7 +83,7 @@
   }
 
   &__main-box::-webkit-scrollbar-thumb:vertical {
-    background: #00ffff;
+    background: #f50101e8;
     border-radius: 10px;
   }
 
@@ -105,10 +105,10 @@
       }
 
       li {
-        color: #00ffff;
+        color: #f50101e8;
         margin-bottom: 0.5em;
         span {
-          color: #ffffff;
+          color: #070707;
         }
         span:empty {
           display: none;

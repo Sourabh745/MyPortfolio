@@ -65,7 +65,6 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    width: 100%;
     line-height: 1.5;
 
     a {
@@ -81,6 +80,13 @@
       margin-top: 1em;
     }
   }
+  .project-card__description-content img {
+    width: 100%; /* Adjust the width as per your requirements */
+    max-width: 300px; /* Optional: Limit the maximum width */
+    border-radius: 0.5em; /* Optional: Add rounded corners */
+    margin-top: 1em;
+  }
+  
 
   @media screen and (max-width: 768px) {
     &__header {
@@ -199,3 +205,4 @@
     }
   }
 }
+
